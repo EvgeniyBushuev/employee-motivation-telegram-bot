@@ -1,2 +1,2 @@
 # employee-motivation-telegram-bot
- It should help promote your brand
+ It should help to promote your brand
